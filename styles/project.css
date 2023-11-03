@@ -9,7 +9,11 @@
   left: 0;
   min-width: 100dvw;
   max-width: 100dvw;
-  min-height: 5dvh;
-  max-height: 5dvh;
+  min-height: 50px;
+  max-height: 50px;
   border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
 }
