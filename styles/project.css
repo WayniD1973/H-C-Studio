@@ -17,3 +17,20 @@
   align-items: center;
   padding: 5px;
 }
+.topNavLeftItemsContainer {
+  display: flex;
+  align-items: center;
+}
+.topNavTitle {
+  display: flex;
+}
+.topNavLogo {
+  margin: 5px;
+}
+.topNavProjectName {
+  margin: 5px;
+}
+.topNavProjectNameText {
+  font-size: 20px;
+  font-weight: bold;
+}
