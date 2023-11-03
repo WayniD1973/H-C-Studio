@@ -1,3 +1,5 @@
+import "@/styles/project.css"
+
 export default function Page({ params }: { params: { project: string } }) {
   return (
     <main>
